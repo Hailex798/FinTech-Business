@@ -145,7 +145,7 @@ const Footer = () => {
                 <div class="col-md-12 credit">
                     <div class="copyright-text">
                         <p className='footer-p'>
-                            Created By  <a href="#">Gautam Gupta</a>
+                            Created By  <a href="#">Kshitij Singh Bisht</a>
                         </p>
                     </div>
                 </div>
