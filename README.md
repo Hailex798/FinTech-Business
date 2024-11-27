@@ -34,7 +34,9 @@ The aim of this project is to provide a visually appealing and responsive landin
 Here’s a glimpse of the **FinTech Business Landing Page**:
 
 ![FinTech Business Screenshot](./public/sample/s1.png)
+---
 ![FinTech Business Screenshot](./public/sample/s2.png)
+---
 ![FinTech Business Screenshot](./public/sample/s3.png)
 
 *Visit the [Live Site](https://fintechbusiness.vercel.app/) for a full experience!* 🌐
